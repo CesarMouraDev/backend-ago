@@ -1,10 +1,3 @@
-# Equipe 3 - Participantes:
-- Daniel  🔗 [mrdanp07](github.com/mrdanp07)
-- Janderson 🔗 [jarderson4lmeida](github.com/jarderson4lmeida)
-- Cesar 🔗[CesarMouraDev](github.com/CesarMouraDev)
-- Hermes 🔗 [HermesWebDeveloper](github.com/HermesWebDeveloper)
-- Caio  🔗 [caioviniciuus](github.com/caioviniciuus)
-
 
 ## Escopo do projeto
 
